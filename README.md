@@ -1,6 +1,7 @@
 # Hi there, I'm Kholofelo! 👋
 
-![SoftwareEngineer1](https://github.com/user-attachments/assets/e8cc8c64-ad6c-4737-a709-26c1f89ccb74)
+![SoftwareEngineer1](https://github.com/user-attachments/assets/e8cc8c64-ad6c-4737-a709-26c1f89ccb74) ![SoftwareEngineer2](https://github.com/user-attachments/assets/59d21708-9450-4f8f-938b-bbb3d11a8679)
+                                  
 
 
 ## About Me 🚀

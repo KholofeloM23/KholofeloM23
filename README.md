@@ -1,6 +1,7 @@
 # Hi there, I'm Kholofelo! 👋
 
-![Banner Image](your_banner_image_url_here)
+![SoftwareEngineer1](https://github.com/user-attachments/assets/e8cc8c64-ad6c-4737-a709-26c1f89ccb74)
+
 
 ## About Me 🚀
 

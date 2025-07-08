@@ -29,6 +29,6 @@ I'm a passionate **Software Engineer** with experience in **Python,JavaScript,SQ
 
 ## Featured Projects 💻
 
-### I am currently working on a backend progrmme.
+### I am currently working on a backend projects.
 
 
